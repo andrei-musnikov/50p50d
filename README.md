@@ -8,3 +8,4 @@ This repository contains practice projects based on following coursers:
 | ------------- |:-------------:| -----:|
 | 1      | [Expanding Cards](https://github.com/andrei-musnikov/50p50d/tree/master/01_expanding_cards) | [Live Demo](https://expanding-cards-eta.vercel.app/) |
 | 2      | [Progress Steps](https://github.com/andrei-musnikov/50p50d/tree/master/02_progress_steps) | [Live Demo](https://progress-steps-one.vercel.app/) |
+| 3      | [Rotating Navigation](https://github.com/andrei-musnikov/50p50d/tree/master/03_rotating_navigation) | [Live Demo](https://rotating-nav.vercel.app/) |
